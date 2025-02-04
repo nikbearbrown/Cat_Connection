@@ -1,4 +1,4 @@
-### **Survey Paper on Understanding Pet Adoption Behavior 8*
+# Survey Paper on Understanding Pet Adoption Behavior 
 
 #### **Abstract**
 Pet adoption behavior is influenced by emotional, economic, and lifestyle factors, which shape consumer decision-making. This paper examines key adoption motivators, generational differences in search behavior, and the role of digital marketing—especially Google Ads—in facilitating pet adoptions. Using consumer decision-making frameworks and behavioral economics principles, the study explores how online search behavior and pet personality traits impact adoption rates. Additionally, the effectiveness of Google Ads campaigns for shelters and rescue organizations is analyzed, with recommendations for optimizing digital marketing strategies.
