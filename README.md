@@ -15,6 +15,8 @@
    - **Research & Resources for “AdBot”**:  
      - Insights on which keywords most effectively attract adopters.  
      - Best practices in Google Ads campaigns for shelters and rescue organizations.
+     - Pet adoption decisions are influenced by several factors including the animal's appearance, breed, age, and compatibility with the adopter's lifestyle. For instance, appearance and perceived trainability play crucial roles in the decision-making process. Notably, the source of the pet (shelters vs. breeders) can also affect adoption choices due to perceived behavioral and health expectations. 
+
 
 2. **Animal Personality & Adoption Decisions**  
    - **Influence on Adoption**:  
@@ -26,6 +28,8 @@
      - Interact Animal Lab @ NU for broader animal-human interaction research.  
    - **Shelter Challenges**:  
      - Low adoption rates, high return rates, reluctance to foster, and seasonal trends (e.g., kitten or puppy season).
+     - Varying preferences across generations, with younger generations (Gen Y and Gen Z/Alpha) possibly showing different priorities such as the pet's background or rescue status, potentially aligning with broader social values like animal welfare.
+
 
 3. **Data: Identifying Necessary Information for Google Ads & Chatbot Development**  
    - **Google Ads Recommender Bot (“AdBot”)**:  
