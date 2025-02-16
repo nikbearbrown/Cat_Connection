@@ -1,4 +1,4 @@
-**Cat Connection Chatbot - Detailed Requirements Document**
+# **Cat Connection Chatbot - Detailed Requirements Document**
 
 ## **1. Introduction**
 **Objective:**
